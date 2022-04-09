@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1649430573 source:c:\users\azza\desktop\c++ course\gestionparking\date.cpp
+	"date.h"
+	<iostream>
+
+1649430585 c:\users\azza\desktop\c++ course\gestionparking\date.h
+	<iostream>
+
+1649429677 source:c:\users\azza\desktop\c++ course\gestionparking\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"reservations.h"
+	"parkings.h"
+	"personnes.h"
+	"date.h"
+
+1649429701 c:\users\azza\desktop\c++ course\gestionparking\reservations.h
+	<iostream>
+	<vector>
+	"date.h"
+
+1649429764 c:\users\azza\desktop\c++ course\gestionparking\parkings.h
+	<iostream>
+	<vector>
+	<string>
+	"reservations.h"
+	"date.h"
+
+1649429771 c:\users\azza\desktop\c++ course\gestionparking\personnes.h
+	<iostream>
+	<vector>
+	<string>
+	"reservations.h"
+
+1649430685 source:c:\users\azza\desktop\c++ course\gestionparking\reservations.cpp
+	<iostream>
+	<vector>
+	"reservations.h"
+	"personnes.h"
+	"parkings.h"
+	"date.h"
+
