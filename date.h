@@ -3,7 +3,7 @@
 class date
 {
     public:
-    int gogo ;
+    
     int jour;
     int mois;
     int annee;
